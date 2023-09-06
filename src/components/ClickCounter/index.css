@@ -1,0 +1,31 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+.bg-con {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #2d3a35;
+  font-size: 40px;
+  max-width: 60vw;
+  text-align: center;
+}
+.description {
+  color: #2d3a35;
+  font-size: 18px;
+}
+.button {
+  background: #007bff;
+  height: 2rem;
+  width: 7rem;
+  color: #ffffff;
+}
+.span {
+  color: #c20a72;
+}
